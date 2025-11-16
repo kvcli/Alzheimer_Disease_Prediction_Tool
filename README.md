@@ -6,7 +6,7 @@ It is intended solely for educational use, not clinical decision-making.
 ---
 
 ## 🚀 Live Demo
-👉 **[Click here to open the app](YOUR_STREAMLIT_CLOUD_URL)**
+👉 **[Click here to open the app](https://devthoughtsbyaziz-ml-alzaheimer-detector-tool.streamlit.app/)**
 
 ---
 
