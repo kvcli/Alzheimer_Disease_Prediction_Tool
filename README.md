@@ -10,10 +10,16 @@ It is intended solely for educational use, not clinical decision-making.
 
 ---
 
+
+## 📔 Jupyter Nootebook
+👉 **[Click here to acess the Jupyter Nootebook](https://colab.research.google.com/drive/1RsVcrx519IWOZMLbdALlUsyuApA96PC1?usp=sharing)**
+
+---
+
+
 ## 📊 Model Details
 - 🏥 User-friendly input fields for clinical indicators  
 - 🤖 Machine-learning model (XGBoost) with 95.81% accuracy  
-- 🌙 Light/Dark mode theme toggle  
 - 🎨 Clean UI with informative prediction messages  
 - 📊 Model information panel  
 ---
@@ -38,7 +44,7 @@ It is intended solely for educational use, not clinical decision-making.
 
 ## 👨‍💻 Author
 
-- Abdulaziz Mohamed Aljaadi
+- Abdulaziz Aljaadi
 
 -  🌐 **[Portfolio:](https://devthoughtsbyaziz.vercel.app)**
 -  🔗 **[LinkedIn:](https://www.linkedin.com/in/abdulaziz-aljaadi)**

@@ -8,9 +8,9 @@ import joblib
 # Load model
 # -------------------------
 try:
-    model = joblib.load('filtered_classifier_model.joblib')
+    model = joblib.load('alzheimer_predcition_tool.joblib')
 except FileNotFoundError:
-    st.error("Error: Model file 'filtered_classifier_model.joblib' not found.")
+    st.error("Error: Model file 'alzheimer_predcition_tool.joblib' not found.")
     st.stop()
 
 # -------------------------
@@ -182,7 +182,7 @@ st.markdown(
     <div class="footer-container">
         Made with ❤️ by <strong>Abdulaziz Aljaadi</strong>
         <div class="footer-icons">
-            <a href="https://github.com/kvcli" target="_blank">
+            <a href="https://github.com/kvcli/Alzheimer_Disease_Prediction_Tool" target="_blank">
                 GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             </a>
             |
